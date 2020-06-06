@@ -8,8 +8,8 @@ Next Level Week linking repository
 ![screenshotWeb3](screenShots/webSc3.png)
 
 [Mobile](https://github.com/AndreLuiz-JS/nlw-mobo)
-![screenshotMobo1](screenShots/mobileSc1.png)
-![screenshotMobo2](screenShots/mobileSc2.png)
-![screenshotMobo3](screenShots/mobileSc3.png)
+![screenshotMobo1](screenShots/mobileSc1.jpeg)
+![screenshotMobo2](screenShots/mobileSc2.jpeg)
+![screenshotMobo3](screenShots/mobileSc3.jpeg)
 
 [Backend](https://github.com/AndreLuiz-JS/nlw-backend)
